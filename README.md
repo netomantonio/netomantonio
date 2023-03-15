@@ -7,11 +7,8 @@ pela **Universidade Federal do Paraná (UFPR)** e atuo como **Engenheiro de Soft
 
 ## 🙋 Sobre mim
 
-Sou alguém que se preocupa com política e acredito que a tecnologia seja fundamental para a
-emancipação da classe trabalhadora, sendo assim, faço do meu trabalho uma forma de entregar melhorias
-para a sociedade entregando o que tenho de melhor no meu dia-a-dia trabalhando,
-e também com meus objetivos pessoais que ainda não pude entregar, mas tenho certeza que esse momento irá chegar
-o quanto antes. Hoje meu foco é me tornar um profissional cada vez mais qualificado, para que possa aprender mais
+Acredito que a tecnologia seja fundamental para a emancipação da classe trabalhadora.  
+Hoje meu foco é me tornar um profissional cada vez mais qualificado, para que possa aprender mais
 e ensinar com meus pares. Tenho um grande interesse em soluções backend mas também me aventuro em outros ambientes como
 frontend, devops, AI, agile e etc...
 
