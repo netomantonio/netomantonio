@@ -2,7 +2,7 @@
 <h3 align="center">Apenas um desenvolvedor [ BACKEND ] latino-americano</h3>
 
 
-Olá, meu nome é Antonio (ou Neto, como alguns amigos me chamam). Sou formado em **Análise e Desenvolvimento de Sistemas**
+Olá, meu nome é Antonio (ou Neto, como alguns amigos me chamam). Estou formando em **Análise e Desenvolvimento de Sistemas**
 pela **Universidade Federal do Paraná (UFPR)** e atuo como **Engenheiro de Software Backend Kotlin**.
 
 ## 🙋 Sobre mim
