@@ -31,7 +31,6 @@ Além da tecnologia, também possuo interesses em outras áreas, como:
 
 - Leitura 📚
 - Filmes e Séries 🎬
-- Batalhas de rap 🎤
 - Jogos de RPG de mesa 🎲
 - Culinária 👨‍🍳
 - Construções com bambu 🎍
