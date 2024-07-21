@@ -42,7 +42,7 @@ Além da tecnologia, também possuo interesses em outras áreas, como:
 Entre em contato comigo clicando em um dos meios abaixo:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-amneto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amneto/)](https://www.linkedin.com/in/amneto/)
-[![Zoho Mail Badge](https://img.shields.io/badge/-contato@casheiro.com.br-critical?style=flat-square&logo=zoho&logoColor=white&link=mailto:netomantonio@gmail.com)](mailto:antonio@casheiro.com.br)
+[![Zoho Mail Badge](https://img.shields.io/badge/-business@casheiro.com.br-critical?style=flat-square&logo=zoho&logoColor=white&link=mailto:business@casheiro.com.br)]
 
 Fique à vontade para olhar meus repositórios e contribuições. Vamos trabalhar juntos! 😄
 
