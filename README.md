@@ -3,7 +3,7 @@
 
 
 Olá, meu nome é Antonio (ou Neto, como alguns amigos me chamam). Formado em **Análise e Desenvolvimento de Sistemas**
-pela **Universidade Federal do Paraná (UFPR)** e atuo como **Engenheiro de Software Backend Kotlin**.
+pela **Universidade Federal do Paraná (UFPR)** e atuo como **Engenheiro de Software Backend**.
 
 ## 🙋 Sobre mim
 
@@ -14,39 +14,47 @@ frontend, devops, AI, agile e etc...
 
 ## 🛠️ Habilidades técnicas
 
-Aqui estão algumas das minhas habilidades técnicas com emojis representativos:
+Aqui estão algumas das minhas habilidades técnicas:
 
-- Kotlin 👨‍💻
-- Python 🐍
-- C# #️⃣
-- Javascript 🌐
-- AWS ☁️
-- DevSecOps 🔒
-- Security Champion 🛡️
-- Privacy Guardian 🔐
+- **Linguagens**:  
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
+  ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+
+- **Ferramentas e Tecnologias**:
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) 
+  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) 
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) 
+  ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=flat-square&logo=terraform&logoColor=white)
+
+- **Outras Habilidades**:
+  - **DevOps** (CI/CD)
+  - **Security Champion** 🔒
+  - **Cloud** (AWS, GCP, Azure)
+  - **Design de API** (RESTful)
+  - **Sistemas Distribuídos e Microsserviços**
 
 ## 🎨 Hobbies
 
 Além da tecnologia, também possuo interesses em outras áreas, como:
 
-- Leitura 📚
 - Filmes e Séries 🎬
 - Jogos de RPG de mesa 🎲
 - Culinária 👨‍🍳
-- Construções com bambu 🎍
-- Política 🏛️
+- Construções ⚒️
+- Política e discussões sociais 🏛️
 - Piadas ruins 🤣
 
 ## 📞 Contato
 
-Entre em contato comigo clicando em um dos meios abaixo:
+Vamos nos conectar e conversar! Estou sempre aberto a novas oportunidades e colaborações. Você pode me encontrar nos seguintes canais:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-amneto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amneto/)](https://www.linkedin.com/in/amneto/)
 [![Zoho Mail Badge](https://img.shields.io/badge/-business@casheiro.com.br-critical?style=flat-square&logo=zoho&logoColor=white&link=mailto:business@casheiro.com.br)](mailto:business@casheiro.com.br)
 
-Fique à vontade para olhar meus repositórios e contribuições. Vamos trabalhar juntos! 😄
-
-## 📈 Estatísticas do GitHub
+## 📈 Minhas Estatísticas do GitHub
 
 [![Estatísticas do GitHub de Antonio](https://github-readme-stats.vercel.app/api?username=netomantonio&show_icons=true&theme=radical)](https://github.com/netomantonio)
 
